@@ -1,0 +1,9 @@
+Steps to run the program:
+ 1.Create a project and copy all the java programs below to eclipse.
+                  a. Graph.java
+		  b. GraphAlgorithm.java
+		  c. TopologicalOrder.java
+		  d. Driver.java			
+ 2. Save the input file(input.txt) in the same project folder.
+ 3. The command line argument for input file name "input.txt" has to be given in the Run Configuration -> argument field.
+ 4. Run the driver program.
